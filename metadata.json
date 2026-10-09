@@ -1,0 +1,6 @@
+{
+  "name": "HydroAtmosphere: Climate & Water Diplomacy Intelligence",
+  "description": "Geopolitical intelligence dashboard analyzing atmospheric geoengineering (SRM & CDR), transboundary hydro-hegemony, mega-dam cascading risks, and model international treaties.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
